@@ -1,4 +1,4 @@
-# Portfolio Website
+# Portfolio Website Mini Project
 
 This is a portfolio website project created as part of a web development course offered by SmartKnower. It is a mini project aimed at showcasing the early stage of my learning in web development. The website is built using HTML, CSS, JavaScript, and Bootstrap.
 
